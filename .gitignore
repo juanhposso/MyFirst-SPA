@@ -1,4 +1,4 @@
 node_modules
 package-lock.json
-./dist/index.html
-./dist/main.js
+dist/index.html
+dist/main.js
